@@ -1,0 +1,8 @@
+{
+  "name": "webview-lua-bridge",
+  "version-string": "1.0.0",
+  "dependencies": [
+    "webview2",
+    "lua"
+  ]
+}
